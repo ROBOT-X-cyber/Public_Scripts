@@ -94,3 +94,4 @@ app_key
 api_app_key
 auth_key_id
 eyJ
+=eyJ
